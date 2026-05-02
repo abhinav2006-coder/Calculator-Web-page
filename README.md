@@ -1,22 +1,22 @@
-# 🧮 Calculator Web App
+  Calculator Web App
 
 A clean and responsive calculator built using **HTML, CSS, and JavaScript**.
 This project demonstrates core concepts of DOM manipulation, event handling, and UI design.
 
 ---
 
-## 🚀 Features
+  Features
 
-* ➕ Basic arithmetic operations (Addition, Subtraction, Multiplication, Division)
-* 📊 Percentage calculation
-* ⌫ Backspace and All Clear functionality
-* ⚠️ Error handling for invalid inputs
-* ⌨️ Keyboard support
-* 🎨 Minimal and responsive UI
+* Basic arithmetic operations (Addition, Subtraction, Multiplication, Division)
+* Percentage calculation
+* Backspace and All Clear functionality
+* Error handling for invalid inputs
+* Keyboard support
+* Minimal and responsive UI
 
 ---
 
-## 🛠️ Tech Stack
+  Tech Stack
 
 * HTML5
 * CSS3 (Grid Layout)
